@@ -1,0 +1,1 @@
+ALTER TABLE usr ADD avatar_url varchar(255) DEFAULT null;

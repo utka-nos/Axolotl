@@ -1,0 +1,1 @@
+ALTER TABLE post ADD time timestamptz default now();
